@@ -1,5 +1,5 @@
- package Medium;
+package Medium;
 
- public class Binary {
-
+public class Binary {
+    // test
 }
